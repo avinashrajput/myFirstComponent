@@ -1,0 +1,2 @@
+# myFirstComponent
+elektobit project
